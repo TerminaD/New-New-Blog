@@ -6,7 +6,7 @@
   <link href="https://www.termina.me/atom.xml" rel="self"/>
   
   <link href="https://www.termina.me/"/>
-  <updated>2025-03-04T16:16:29.121Z</updated>
+  <updated>2025-03-04T17:41:14.127Z</updated>
   <id>https://www.termina.me/</id>
   
   <author>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>live-photo-test</title>
-    <link href="https://www.termina.me/2025/03/04/live-photo-test/"/>
-    <id>https://www.termina.me/2025/03/04/live-photo-test/</id>
-    <published>2025-03-04T15:28:59.000Z</published>
-    <updated>2025-03-04T16:16:29.121Z</updated>
+    <link href="https://www.termina.me/2025/03/05/live-photo-test/"/>
+    <id>https://www.termina.me/2025/03/05/live-photo-test/</id>
+    <published>2025-03-04T17:03:18.000Z</published>
+    <updated>2025-03-04T17:41:14.127Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/test.jpeg&quot; alt=&quot;regular image&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/test.jpeg&quot;&gt;&lt;/p&gt;
   &lt;figure style=&quot;text-align: center; color:#0003&quot;&gt;
 	&lt;div
 	  data-live-photo
